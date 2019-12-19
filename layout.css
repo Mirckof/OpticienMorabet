@@ -1,0 +1,37 @@
+/*Normalidad*/
+
+header, footer, section, article, nav, aside{
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+html{
+	background: #fff;
+	margin: 0;
+	padding: 0;
+}
+body{
+	width: 1024px;
+	background: #f56;
+	margin: 0 auto;
+	font-family: verdana, geneva, sans-serif;
+}
+p, h1, h2, h3{
+	margin: 0;
+	padding: 0;
+}
+
+/*Etiquetas de estructura*/
+
+header{
+	height: 90px;
+	background: #75aabb;
+}
+article{
+	height: 460px;
+	background: #bbddee;
+}
+footer{
+	height: 60px;
+	background: #75aabb;
+}
